@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# data dir
+/data/**/*
+
+# MAC_OS stuff
+.DS_STORE
+
+# code env stuff
+.idea/
+.vscode/
