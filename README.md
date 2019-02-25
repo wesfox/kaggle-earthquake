@@ -6,3 +6,6 @@ https://www.kaggle.com/c/LANL-Earthquake-Prediction/data
 
 Unzip it with unzip:
 > unzip LANL-Earthquake-Prediction.zip
+
+Create a train_small.csv with this command:
+> head -n 50000 train.csv > train_small.csv
