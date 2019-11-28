@@ -9,3 +9,5 @@ Unzip it with unzip:
 
 Create a train_small.csv with this command:
 > head -n 50000 train.csv > train_small.csv
+
+Then, open [the notebook](Kaggle Earthquake.ipynb) to see what have been done
